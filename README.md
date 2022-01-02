@@ -12,6 +12,10 @@
 ---
 ### 🔗🔗 Link: https://RedEdge967.github.io
 ---
+## Preview
+![Capture62](https://user-images.githubusercontent.com/91379432/147874311-a8ac4666-66fb-4571-8c1b-fecf4e2fc7cc.PNG)
+
+---
 ## Cloning
 ### Cloning with HTTPS
 ```
