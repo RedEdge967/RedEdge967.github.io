@@ -33,4 +33,7 @@ gh repo clone RedEdge967/RedEdge967.github.io
 4. When Changing the Icons, Go to [devicon.dev](https://devicon.dev) to find icons you want
 5. And that's all!
 ---
+## Can I contribute?
+- Sure, open an issue, point out errors, and what not. Wanna fix something yourselves, you're welcome to open a pull request and I appreciate it.
+---
 
