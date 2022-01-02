@@ -26,4 +26,11 @@ git@github.com:RedEdge967/RedEdge967.github.io.git
 gh repo clone RedEdge967/RedEdge967.github.io
 ```
 ---
+## How to make your own website like this?
+1. Clone or fork this repository
+2. Edit `index.html` to change the home page
+3. Add your images to the `assets` directory and change the `names` of images in the `index.html`
+4. When Changing the Icons, Go to [devicon.dev](https://devicon.dev) to find icons you want
+5. And that's all!
+---
 
