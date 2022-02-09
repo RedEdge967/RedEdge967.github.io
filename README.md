@@ -35,7 +35,8 @@ gh repo clone RedEdge967/portfolio-v2
 2. Edit `index.html` to change the home page
 3. Add your images to the `assets` directory and change the `names` of images in the `index.html`
 4. When Changing the Icons, Go to [devicon.dev](https://devicon.dev) to find icons you want
-5. And that's all!
+5. Deploy to the web
+6. And that's all!
 ---
 ## Can I contribute?
 - Sure, open an issue, point out errors, and what not. Wanna fix something yourselves, you're welcome to open a pull request and I appreciate it.
