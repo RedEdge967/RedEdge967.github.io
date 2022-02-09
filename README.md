@@ -1,7 +1,7 @@
 # portfolio-v2
 - My Personal Website. Made with Glassmorphism UI
 <p align="center">
-  <img src="/assets/favicon.png" height="30%" width="30%">
+  <img src="/assets/favicon-modified.png" height="30%" width="30%">
 </p>
 
 ---
