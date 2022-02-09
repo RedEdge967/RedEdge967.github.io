@@ -10,7 +10,7 @@
 - JavaScript
 - HTML5
 ---
-### 🔗🔗 Link: https://RedEdge967.github.io/portfolio-v2
+### 🔗🔗 Link: https://rededge.vercel.app
 ---
 ## Preview
 ![Capture62](https://user-images.githubusercontent.com/91379432/147874311-a8ac4666-66fb-4571-8c1b-fecf4e2fc7cc.PNG)
