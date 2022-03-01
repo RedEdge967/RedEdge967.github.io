@@ -1,5 +1,5 @@
 # portfolio-v2
-- My Personal Website. Made with Glassmorphism UI
+- v2 of My Personal Website. Made with Glassmorphism UI
 <p align="center">
   <img src="/assets/favicon-modified.png" height="30%" width="30%">
 </p>
@@ -10,7 +10,7 @@
 - JavaScript
 - HTML5
 ---
-### 🔗🔗 Link: https://rededge.vercel.app
+### 🔗🔗 Link: https://rededge967.github.io/portfolio-v2
 ---
 ## Preview
 ![Capture62](https://user-images.githubusercontent.com/91379432/147874311-a8ac4666-66fb-4571-8c1b-fecf4e2fc7cc.PNG)
