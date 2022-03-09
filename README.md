@@ -1,5 +1,5 @@
-# portfolio-v1
-- v1 of My Personal Website. Made with Glassmorphism UI
+# portfolio-v2
+- v2 of My Personal Website. Made with Glassmorphism UI
 <p align="center">
   <img src="/assets/favicon-modified.png" height="30%" width="30%">
 </p>
@@ -10,7 +10,7 @@
 - JavaScript
 - HTML5
 ---
-### 🔗🔗 Link: https://rededge967.github.io/portfolio-v1
+### 🔗🔗 Link: https://rededge967.github.io/portfolio-v2
 ---
 ## Preview
 ![Capture62](https://user-images.githubusercontent.com/91379432/147874311-a8ac4666-66fb-4571-8c1b-fecf4e2fc7cc.PNG)
@@ -19,15 +19,15 @@
 ## Cloning
 ### Cloning with HTTPS
 ```
-https://github.com/RedEdge967/portfolio-v1.git
+https://github.com/RedEdge967/portfolio-v2.git
 ```
 ### Cloning with SSH
 ```
-git@github.com:RedEdge967/portfolio-v1.git
+git@github.com:RedEdge967/portfolio-v2.git
 ```
 ### Cloning with Github CLI
 ```
-gh repo clone RedEdge967/portfolio-v1
+gh repo clone RedEdge967/portfolio-v2
 ```
 ---
 ## How to make your own website like this?
