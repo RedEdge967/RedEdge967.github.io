@@ -10,7 +10,7 @@
 - JavaScript
 - HTML5
 ---
-### 🔗🔗 Link: https://rededge.vercel.app
+### 🔗🔗 Link: https://rededge.is-a.dev
 ---
 ## Preview
 ![Capture62](https://user-images.githubusercontent.com/91379432/147874311-a8ac4666-66fb-4571-8c1b-fecf4e2fc7cc.PNG)
@@ -19,15 +19,15 @@
 ## Cloning
 ### Cloning with HTTPS
 ```
-https://github.com/RedEdge967/portfolio-v3.git
+https://github.com/RedEdge967/RedEdge967.github.io.git
 ```
 ### Cloning with SSH
 ```
-git@github.com:RedEdge967/portfolio-v3.git
+git@github.com:RedEdge967/RedEdge967.github.io.git
 ```
 ### Cloning with Github CLI
 ```
-gh repo clone RedEdge967/portfolio-v3
+gh repo clone RedEdge967/RedEdge967.github.io
 ```
 ---
 ## How to make your own website like this?
